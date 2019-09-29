@@ -1,3 +1,3 @@
 # Temple-Run
 
-My game is currently too large to upload to Git-Hub. The game will be posted when I find a solution.
+First person obstacle course I made for my final in my Game development course.
